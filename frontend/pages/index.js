@@ -9,7 +9,7 @@ const SmallFishFundSite = () => {
 return(
 <html>
   <head>
-    <title>My first HTML document</title>
+    <title>Small Fish Fund VC</title>
   </head>
 <body>
     <div>
